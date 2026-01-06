@@ -50,8 +50,7 @@ Move to the `src` folder to run the subsequent commands.
 # Example
 
     # Train the QML model with l-QAS
-    python psr.py
-    python qap.py
+    python layered_qas.py
 
 
 # Citation
