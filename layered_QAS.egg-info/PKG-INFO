@@ -1,0 +1,11 @@
+Metadata-Version: 2.4
+Name: layered-QAS
+Version: 1.0
+Summary: Layered Quantum Architecture Search for 3D Point Cloud Classification
+Home-page: https://#
+Author: Natacha Kuete Meli
+Author-email: natacha.kuetemeli@mic.uni-siegen.de
+Dynamic: author
+Dynamic: author-email
+Dynamic: home-page
+Dynamic: summary
